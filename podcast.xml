@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Private Podcast</title>
+    <link>https://example.com</link>
+    <description>This is a private podcast feed.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Episode 1: My First Episode</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=11RjTJlz151oH89RP5G1mNlMe8YGVi3sa" type="audio/mpeg"/>
+      <guid>episode1</guid>
+      <pubDate>Tue, 20 Aug 2025 12:00:00 +0000</pubDate>
+      <description>This is the first episode.</description>
+    </item>
+
+  </channel>
+</rss>
